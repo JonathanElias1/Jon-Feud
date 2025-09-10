@@ -1,0 +1,122 @@
+{
+  "title": "Jon Feud",
+
+  "rounds": [
+    {
+      "question": "Name something you bring to a birthday party:",
+      "multiplier": 1,
+      "answers": [
+        { "text": "Gift", "points": 35 },
+        { "text": "Cake", "points": 26 },
+        { "text": "Balloons", "points": 12 },
+        { "text": "Drinks", "points": 9 },
+        { "text": "Snacks/Chips", "points": 7 },
+        { "text": "Candles", "points": 5 },
+        { "text": "Plates/Cups", "points": 3 },
+        { "text": "Games", "points": 3 }
+      ]
+    },
+    {
+      "question": "Name a reason a video shoot runs late:",
+      "multiplier": 1,
+      "answers": [
+        { "text": "Technical issues", "points": 29 },
+        { "text": "Talent arrives late", "points": 24 },
+        { "text": "Last-minute script changes", "points": 17 },
+        { "text": "Lighting setup", "points": 12 },
+        { "text": "Audio problems", "points": 8 },
+        { "text": "Location issues", "points": 6 },
+        { "text": "Wardrobe/Makeup", "points": 3 },
+        { "text": "Weather", "points": 1 }
+      ]
+    },
+    {
+      "question": "Name a place you shouldn't check your phone:",
+      "multiplier": 2,
+      "answers": [
+        { "text": "Driving", "points": 40 },
+        { "text": "Movie theater", "points": 18 },
+        { "text": "Dinner date", "points": 15 },
+        { "text": "Class/Meeting", "points": 12 },
+        { "text": "Church/Service", "points": 8 },
+        { "text": "Gym", "points": 4 },
+        { "text": "Bathroom", "points": 2 },
+        { "text": "Wedding", "points": 1 }
+      ]
+    },
+    {
+      "question": "Name something people do first thing in the morning:",
+      "multiplier": 3,
+      "answers": [
+        { "text": "Brush teeth", "points": 28 },
+        { "text": "Use bathroom", "points": 21 },
+        { "text": "Check phone", "points": 16 },
+        { "text": "Make coffee", "points": 14 },
+        { "text": "Shower", "points": 10 },
+        { "text": "Eat breakfast", "points": 6 },
+        { "text": "Hit snooze", "points": 3 },
+        { "text": "Make bed", "points": 2 }
+      ]
+    },
+    {
+      "question": "Name something you spread on toast:",
+      "multiplier": 3,
+      "answers": [
+        { "text": "Butter", "points": 34 },
+        { "text": "Jam/Jelly", "points": 26 },
+        { "text": "Peanut butter", "points": 16 },
+        { "text": "Avocado", "points": 10 },
+        { "text": "Cream cheese", "points": 6 },
+        { "text": "Honey", "points": 4 },
+        { "text": "Marmalade", "points": 3 },
+        { "text": "Nutella", "points": 1 }
+      ]
+    },
+    {
+      "question": "Name something you keep in your car:",
+      "multiplier": 3,
+      "answers": [
+        { "text": "Spare tire/Jack", "points": 27 },
+        { "text": "Phone charger", "points": 19 },
+        { "text": "Sunglasses", "points": 15 },
+        { "text": "Jumper cables", "points": 12 },
+        { "text": "Water/Snacks", "points": 9 },
+        { "text": "Blanket/Jacket", "points": 7 },
+        { "text": "First aid kit", "points": 6 },
+        { "text": "Umbrella", "points": 5 }
+      ]
+    }
+  ],
+
+  "sudden": [
+    {
+      "question": "Sudden Death: Name a household bill people dread the most.",
+      "multiplier": 3,
+      "answers": [
+        { "text": "Electricity", "points": 100 }
+      ]
+    },
+    {
+      "question": "Sudden Death: Name the most-used app on people's phones.",
+      "multiplier": 3,
+      "answers": [
+        { "text": "Messages/Texts", "points": 100 }
+      ]
+    },
+    {
+      "question": "Sudden Death: Name the most popular pizza topping.",
+      "multiplier": 3,
+      "answers": [
+        { "text": "Pepperoni", "points": 100 }
+      ]
+    }
+  ],
+
+  "fastMoneyPrompts": [
+    "A breakfast food you can eat on the go",
+    "Something people lose all the time",
+    "A reason you might be late",
+    "A chore kids get paid to do",
+    "A fruit you can peel"
+  ]
+}
